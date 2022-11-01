@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularSwitch';
+  // title = 'AngularSwitch';
+  num : number = 0;
+  // title : string = 'ngIf Example';
+  // showMe! : boolean;
 }
